@@ -1,5 +1,5 @@
 const data = {
-  mainTitle: "My Favourite Travel Destinations",
+  mainTitle: "My Foods",
   cardContents: [
     {
       name: "Pizza",
